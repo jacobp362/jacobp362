@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I'm currently a first your at Leeds Beckett University and I'm studying Computer Science  
+
 <!--
 **jacobp362/jacobp362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
